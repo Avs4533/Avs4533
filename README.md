@@ -57,8 +57,8 @@ me.say_hi()
 ## 🎮 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Avs4533/number-guessing-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvdesai&repo=rock-paper-scissors&theme=tokyonight" alt="Number Guesing Game " />
+  <a href="https://github.com/Avs4533/Number-guessing-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvdesai&repo=Number-guessing-game s&theme=tokyonight" alt="Number- guesing -Game " />
   </a>
 </div>
 
