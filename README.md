@@ -30,10 +30,6 @@ me = AtharvDesai()
 me.say_hi()
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -58,22 +54,11 @@ me.say_hi()
 🎪 Next Goal: Deep Learning & Computer Vision
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharvdesai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdesai&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvdesai&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🎮 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/atharvdesai/rock-paper-scissors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvdesai&repo=rock-paper-scissors&theme=tokyonight" alt="Rock Paper Scissors" />
+  <a href="https://github.com/Avs4533/number-guessing-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvdesai&repo=rock-paper-scissors&theme=tokyonight" alt="Number Guesing Game " />
   </a>
 </div>
 
@@ -93,12 +78,6 @@ me.say_hi()
 | 🧠 **Phase 3** | Deep Learning | 🔮 Upcoming |
 | 🚀 **Phase 4** | AI Applications | 🌟 Future |
 
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvdesai&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎵 Fun Facts
@@ -126,10 +105,6 @@ dream_project: "AI that makes a positive impact on society"
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Always%20excited%20to%20collaborate%20and%20learn%20together&descAlignY=50&descAlign=50" alt="Footer" />
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
