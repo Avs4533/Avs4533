@@ -93,7 +93,7 @@ dream_project: "AI that makes a positive impact on society"
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="www.linkedin.com/in/atharv-desai-st
+  <a href="https://www.linkedin.com/in/atharv-desai-st
 ">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
